@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    
+}
+.label{
+    text-align: center; 
+    padding:2px 2px 2px 0px ;
+}
+body{
+    background-color: rgb(148, 199, 199);
+    text-align: center;
+    outline-style: solid;
+    padding:10px;
+    margin: 100px;
+    
+}
